@@ -1,7 +1,7 @@
-## COVIDstory is dedicated to collect human stories during the COVID-19 pandemic and then share those stories when the owner allows us to do so.
+## COVIDstory se dedica a entregar mensajes anonimos a trabajadores de la salud y pacientes en forma de cartas.
+El objetivo de COVIDstory es conectar con aquellos que dan todo por la vida en tiempos de aislamiento y soledad.
 
-The objective of COVIDstory is to set up a platform where we can all learn from humans' experiences around the globe. 
+Se aceptan sugerencias de desarrollo
 
-Submissions to improve the logistics and design of the platform are welcome.
 
-# Thanks for passing by!
+# Gracias por visitar el repo!
